@@ -16,9 +16,9 @@ ElevateLab_Task5-K8S-minikube/
 
 ├── Dockerfile # Dockerfile for building the app image
 
-├── deployment.yaml # Kubernetes Deployment manifest
+├── deployment.yml # Kubernetes Deployment manifest
 
-├── service.yaml # Kubernetes Service manifest
+├── service.yml # Kubernetes Service manifest
 
 └── README.md #Documentation
 
