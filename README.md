@@ -11,11 +11,17 @@ It covers building a Docker image, creating Kubernetes Deployment and Service, s
 ElevateLab_Task5-K8S-minikube/
 │
 ├── app.py # Flask application
+
 ├── requirements.txt # Python dependencies
+
 ├── Dockerfile # Dockerfile for building the app image
+
 ├── deployment.yaml # Kubernetes Deployment manifest
+
 ├── service.yaml # Kubernetes Service manifest
-└── README.md
+
+└── README.md #Documentation
+
 └──SCREENSHOTS #for proof
 
 
@@ -85,5 +91,3 @@ Hands-on experience with Kubernetes Deployments, Services, scaling, and pod mana
 Demonstrates end-to-end workflow from Docker container → Minikube cluster → Kubernetes deployment.
 
 
-
-Copy code\
